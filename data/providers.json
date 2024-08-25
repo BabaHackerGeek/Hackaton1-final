@@ -1,0 +1,242 @@
+{
+    "France": {
+    "Operators": [
+      {"Name": "Orange", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "20 eur"},
+      {"Name": "SFR", "Plan": "15GB + 200 min", "Data": "15GB", "Minutes": "200", "Price": "25 eur"},
+      {"Name": "Bouygues", "Plan": "20GB + 300 min", "Data": "20GB", "Minutes": "300", "Price": "30 eur"},
+      {"Name": "Free", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "35 eur"}
+    ]
+  },
+  "Germany": {
+    "Operators": [
+      {"Name": "T-Mobile", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "22 eur"},
+      {"Name": "Vodafone", "Plan": "12GB + 150 min", "Data": "12GB", "Minutes": "150", "Price": "28 eur"},
+      {"Name": "O2", "Plan": "15GB + 250 min", "Data": "15GB", "Minutes": "250", "Price": "32 eur"},
+      {"Name": "E-Plus", "Plan": "20GB + Unlimited min", "Data": "20GB", "Minutes": "Unlimited", "Price": "40 eur"}
+    ]
+  },
+  "Italy": {
+    "Operators": [
+      {"Name": "TIM", "Plan": "8GB + 100 min", "Data": "8GB", "Minutes": "100", "Price": "18 eur"},
+      {"Name": "Vodafone", "Plan": "12GB + 200 min", "Data": "12GB", "Minutes": "200", "Price": "24 eur"},
+      {"Name": "Wind", "Plan": "20GB + 300 min", "Data": "20GB", "Minutes": "300", "Price": "30 eur"},
+      {"Name": "Tre", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "38 eur"}
+    ]
+  },
+  "Spain": {
+    "Operators": [
+      {"Name": "Movistar", "Plan": "8GB + 100 min", "Data": "8GB", "Minutes": "100", "Price": "18 eur"},
+      {"Name": "Vodafone", "Plan": "12GB + 150 min", "Data": "12GB", "Minutes": "150", "Price": "22 eur"},
+      {"Name": "Orange", "Plan": "20GB + 300 min", "Data": "20GB", "Minutes": "300", "Price": "30 eur"},
+      {"Name": "Yoigo", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "35 eur"}
+    ]
+  },
+  "Netherlands": {
+    "Operators": [
+      {"Name": "KPN", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "20 eur"},
+      {"Name": "Vodafone", "Plan": "15GB + 200 min", "Data": "15GB", "Minutes": "200", "Price": "25 eur"},
+      {"Name": "T-Mobile", "Plan": "20GB + 300 min", "Data": "20GB", "Minutes": "300", "Price": "30 eur"},
+      {"Name": "Tele2", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "35 eur"}
+    ]
+  },
+  "Belgium": {
+    "Operators": [
+      {"Name": "Proximus", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "20 eur"},
+      {"Name": "Orange", "Plan": "15GB + 200 min", "Data": "15GB", "Minutes": "200", "Price": "24 eur"},
+      {"Name": "Base", "Plan": "20GB + 300 min", "Data": "20GB", "Minutes": "300", "Price": "30 eur"},
+      {"Name": "Telenet", "Plan": "25GB + Unlimited min", "Data": "25GB", "Minutes": "Unlimited", "Price": "35 eur"}
+    ]
+  },
+  "Austria": {
+    "Operators": [
+      {"Name": "A1", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "22 eur"},
+      {"Name": "T-Mobile", "Plan": "12GB + 150 min", "Data": "12GB", "Minutes": "150", "Price": "26 eur"},
+      {"Name": "3", "Plan": "20GB + 250 min", "Data": "20GB", "Minutes": "250", "Price": "30 eur"},
+      {"Name": "HoT", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "38 eur"}
+    ]
+  },
+  "Sweden": {
+    "Operators": [
+      {"Name": "Telia", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "23 eur"},
+      {"Name": "Tele2", "Plan": "15GB + 200 min", "Data": "15GB", "Minutes": "200", "Price": "27 eur"},
+      {"Name": "Telenor", "Plan": "20GB + 300 min", "Data": "20GB", "Minutes": "300", "Price": "32 eur"},
+      {"Name": "Comviq", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "37 eur"}
+    ]
+  },
+  "Denmark": {
+    "Operators": [
+      {"Name": "TDC", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "21 eur"},
+      {"Name": "3", "Plan": "12GB + 150 min", "Data": "12GB", "Minutes": "150", "Price": "26 eur"},
+      {"Name": "Telia", "Plan": "20GB + 250 min", "Data": "20GB", "Minutes": "250", "Price": "30 eur"},
+      {"Name": "YouSee", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "35 eur"}
+        ]
+  },
+  "Poland": {
+    "Operators": [
+      {"Name": "Orange", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "18 eur"},
+      {"Name": "T-Mobile", "Plan": "15GB + 200 min", "Data": "15GB", "Minutes": "200", "Price": "22 eur"},
+      {"Name": "Play", "Plan": "20GB + 300 min", "Data": "20GB", "Minutes": "300", "Price": "28 eur"},
+      {"Name": "Plus", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "35 eur"}
+    ]
+  },
+  "Portugal": {
+    "Operators": [
+      {"Name": "MEO", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "20 eur"},
+      {"Name": "Vodafone", "Plan": "12GB + 150 min", "Data": "12GB", "Minutes": "150", "Price": "24 eur"},
+      {"Name": "NOS", "Plan": "20GB + 250 min", "Data": "20GB", "Minutes": "250", "Price": "30 eur"},
+      {"Name": "NOWO", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "35 eur"}
+    ]
+  },
+  "Greece": {
+    "Operators": [
+      {"Name": "Cosmote", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "20 eur"},
+      {"Name": "Vodafone", "Plan": "12GB + 150 min", "Data": "12GB", "Minutes": "150", "Price": "23 eur"},
+      {"Name": "Wind", "Plan": "20GB + 250 min", "Data": "20GB", "Minutes": "250", "Price": "28 eur"},
+      {"Name": "Q", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "34 eur"}
+    ]
+  },
+  "Czech Republic": {
+    "Operators": [
+      {"Name": "O2", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "18 eur"},
+      {"Name": "T-Mobile", "Plan": "12GB + 150 min", "Data": "12GB", "Minutes": "150", "Price": "22 eur"},
+      {"Name": "Vodafone", "Plan": "20GB + 250 min", "Data": "20GB", "Minutes": "250", "Price": "28 eur"},
+      {"Name": "UPC", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "34 eur"}
+    ]
+  },
+  "Switzerland": {
+    "Operators": [
+      {"Name": "Swisscom", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "25 CHF"},
+      {"Name": "Sunrise", "Plan": "15GB + 200 min", "Data": "15GB", "Minutes": "200", "Price": "30 CHF"},
+      {"Name": "Salt", "Plan": "20GB + 300 min", "Data": "20GB", "Minutes": "300", "Price": "35 CHF"},
+      {"Name": "Yallo", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "40 CHF"}
+    ]
+  },
+  "Iceland": {
+    "Operators": [
+      {"Name": "Síminn", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "2500 ISK"},
+      {"Name": "Vodafone", "Plan": "12GB + 150 min", "Data": "12GB", "Minutes": "150", "Price": "3000 ISK"},
+      {"Name": "Nova", "Plan": "20GB + 250 min", "Data": "20GB", "Minutes": "250", "Price": "3500 ISK"},
+      {"Name": "Hringdu", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "4000 ISK"}
+    ]
+  },
+  "Norway": {
+    "Operators": [
+      {"Name": "Telenor", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "200 NOK"},
+      {"Name": "Telia", "Plan": "12GB + 150 min", "Data": "12GB", "Minutes": "150", "Price": "250 NOK"},
+      {"Name": "Ice", "Plan": "20GB + 250 min", "Data": "20GB", "Minutes": "250", "Price": "300 NOK"},
+      {"Name": "Chilimobil", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "350 NOK"}
+    ]
+  },
+  "Liechtenstein": {
+    "Operators": [
+      {"Name": "FL1", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "25 CHF"},
+      {"Name": "Salt", "Plan": "12GB + 150 min", "Data": "12GB", "Minutes": "150", "Price": "30 CHF"},
+      {"Name": "Sunrise", "Plan": "20GB + 250 min", "Data": "20GB", "Minutes": "250", "Price": "35 CHF"},
+      {"Name": "Swisscom", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "40 CHF"}
+    ]
+  },
+  "Monaco": {
+    "Operators": [
+      {"Name": "Monaco Telecom", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "25 eur"},
+      {"Name": "Orange", "Plan": "12GB + 150 min", "Data": "12GB", "Minutes": "150", "Price": "30 eur"},
+      {"Name": "SFR", "Plan": "20GB + 250 min", "Data": "20GB", "Minutes": "250", "Price": "35 eur"},
+      {"Name": "Bouygues", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "40 eur"}
+    ]
+  },
+  "Estonia": {
+    "Operators": [
+      {"Name": "Telia", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "18 eur"},
+      {"Name": "Elisa", "Plan": "15GB + 200 min", "Data": "15GB", "Minutes": "200", "Price": "22 eur"},
+      {"Name": "Tele2", "Plan": "20GB + 300 min", "Data": "20GB", "Minutes": "300", "Price": "28 eur"},
+      {"Name": "STV", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "35 eur"}
+    ]
+  },
+  "Latvia": {
+    "Operators": [
+      {"Name": "LMT", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "18 eur"},
+      {"Name": "Bite", "Plan": "15GB + 200 min", "Data": "15GB", "Minutes": "200", "Price": "22 eur"},
+      {"Name": "Tele2", "Plan": "20GB + 300 min", "Data": "20GB", "Minutes": "300", "Price": "28 eur"},
+      {"Name": "Amigo", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "35 eur"}
+    ]
+  },
+  "Lithuania": {
+    "Operators": [
+      {"Name": "Telia", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "18 eur"},
+      {"Name": "Tele2", "Plan": "15GB + 200 min", "Data": "15GB", "Minutes": "200", "Price": "22 eur"},
+      {"Name": "Bite", "Plan": "20GB + 300 min", "Data": "20GB", "Minutes": "300", "Price": "28 eur"},
+      {"Name": "Mezon", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "34 eur"}
+    ]
+  },
+  "Hungary": {
+    "Operators": [
+      {"Name": "T-Mobile", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "20 eur"},
+      {"Name": "Vodafone", "Plan": "12GB + 150 min", "Data": "12GB", "Minutes": "150", "Price": "24 eur"},
+      {"Name": "Telekom", "Plan": "20GB + 250 min", "Data": "20GB", "Minutes": "250", "Price": "30 eur"},
+      {"Name": "Yettel", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "35 eur"}
+    ]
+  },
+  "Slovakia": {
+    "Operators": [
+      {"Name": "Orange", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "20 eur"},
+      {"Name": "Telekom", "Plan": "12GB + 150 min", "Data": "12GB", "Minutes": "150", "Price": "24 eur"},
+      {"Name": "O2", "Plan": "20GB + 250 min", "Data": "20GB", "Minutes": "250", "Price": "28 eur"},
+      {"Name": "4ka", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "35 eur"}
+    ]
+  },
+  "Slovenia": {
+    "Operators": [
+      {"Name": "Telekom Slovenije", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "20 eur"},
+      {"Name": "A1", "Plan": "12GB + 150 min", "Data": "12GB", "Minutes": "150", "Price": "24 eur"},
+      {"Name": "Telemach", "Plan": "20GB + 250 min", "Data": "20GB", "Minutes": "250", "Price": "28 eur"},
+      {"Name": "T-2", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "34 eur"}
+    ]
+  },
+  "Bulgaria": {
+    "Operators": [
+      {"Name": "A1", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "15 eur"},
+      {"Name": "Telenor", "Plan": "12GB + 150 min", "Data": "12GB", "Minutes": "150", "Price": "20 eur"},
+      {"Name": "Vivacom", "Plan": "20GB + 250 min", "Data": "20GB", "Minutes": "250", "Price": "25 eur"},
+      {"Name": "Yettel", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "30 eur"}
+    ]
+  },
+  "Romania": {
+    "Operators": [
+      {"Name": "Orange", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "18 eur"},
+      {"Name": "Vodafone", "Plan": "15GB + 200 min", "Data": "15GB", "Minutes": "200", "Price": "22 eur"},
+      {"Name": "Digi", "Plan": "20GB + 300 min", "Data": "20GB", "Minutes": "300", "Price": "28 eur"},
+      {"Name": "Telekom", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "35 eur"}
+    ]
+  },
+  "Croatia": {
+    "Operators": [
+      {"Name": "T-Hrvatski Telekom", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "20 eur"},
+      {"Name": "A1", "Plan": "12GB + 150 min", "Data": "12GB", "Minutes": "150", "Price": "24 eur"},
+      {"Name": "Tele2", "Plan": "20GB + 250 min", "Data": "20GB", "Minutes": "250", "Price": "28 eur"},
+      {"Name": "Bonbon", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "35 eur"}
+    ]
+  },
+  "Cyprus": {
+    "Operators": [
+      {"Name": "Cyta", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "20 eur"},
+      {"Name": "Epic", "Plan": "12GB + 150 min", "Data": "12GB", "Minutes": "150", "Price": "24 eur"},
+      {"Name": "PrimeTel", "Plan": "20GB + 250 min", "Data": "20GB", "Minutes": "250", "Price": "28 eur"},
+      {"Name": "Cablenet", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "35 eur"}
+    ]
+  },
+  "Luxembourg": {
+    "Operators": [
+      {"Name": "POST", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "22 eur"},
+      {"Name": "Orange", "Plan": "12GB + 150 min", "Data": "12GB", "Minutes": "150", "Price": "26 eur"},
+      {"Name": "Tango", "Plan": "20GB + 250 min", "Data": "20GB", "Minutes": "250", "Price": "30 eur"},
+      {"Name": "Join Experience", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "36 eur"}
+    ]
+  },
+  "Malta": {
+    "Operators": [
+      {"Name": "GO", "Plan": "10GB + 100 min", "Data": "10GB", "Minutes": "100", "Price": "20 eur"},
+      {"Name": "Epic", "Plan": "12GB + 150 min", "Data": "12GB", "Minutes": "150", "Price": "24 eur"},
+      {"Name": "Melita", "Plan": "20GB + 250 min", "Data": "20GB", "Minutes": "250", "Price": "28 eur"},
+      {"Name": "Vodafone", "Plan": "30GB + Unlimited min", "Data": "30GB", "Minutes": "Unlimited", "Price": "34 eur"}
+    ]
+  }
+}
